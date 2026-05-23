@@ -1,0 +1,151 @@
+﻿id;registration_date;last_modified_date;profession;birth_date;email;first_name;last_name;phone_number;gender;course_name;course_level;rating_course
+1;17/10/2023;23/01/2024;Diseñador UX;9/10/1997;carlos.garcía@email.com;Carlos;García;+57 3172074176;M;UX/UI Design;advanced;5
+2;25/04/2022;20/05/2022;Analista de datos;10/10/1979;maría.rodríguez@email.com;María;Rodríguez;+57 3201352896;F;Análisis de Datos;advanced;5
+3;26/01/2022;28/04/2022;Emprendedor digital;18/01/2003;juan.lópez@email.com;Juan;López;+57 3284860684;M;Estadística Aplicada;intermediate;3
+4;30/01/2024;28/04/2024;Apasionado por la tecnología;21/05/1988;sofía.martínez@email.com;Sofía;Martínez;+57 3284694634;F;Machine Learning;intermediate;5
+5;9/10/2022;13/03/2023;Analista de datos;30/08/2003;andrés.gonzález@email.com;Andrés;González;+57 3102191066;M;Diseño Web;intermediate;4
+6;8/09/2022;15/11/2022;Apasionado por la tecnología;9/10/1997;valentina.pérez@email.com;Valentina;Pérez;+57 3114841005;F;Diseño Web;advanced;4
+7;17/08/2022;29/08/2022;Emprendedor digital;26/04/2002;luis.sánchez@email.com;Luis;Sánchez;+57 3121527021;M;React desde Cero;advanced;5
+8;23/05/2022;18/09/2022;Docente universitario;3/12/1983;camila.ramírez@email.com;Camila;Ramírez;+57 3202188789;F;Estadística Aplicada;advanced;3
+9;25/01/2024;11/06/2024;Diseñador UX;9/11/1981;jorge.torres@email.com;Jorge;Torres;+57 3264993055;M;SQL para Negocios;advanced;3
+10;15/04/2022;17/05/2022;Estudiante de ingeniería;10/10/1991;isabella.flores@email.com;Isabella;Flores;+57 3189143903;F;Ciberseguridad;beginner;4
+11;24/11/2023;29/02/2024;Analista de datos;31/03/1982;diego.rivera@email.com;Diego;Rivera;+57 3163219824;M;JavaScript Avanzado;intermediate;4
+12;29/01/2024;19/02/2024;Emprendedor digital;13/03/1999;laura.gómez@email.com;Laura;Gómez;+57 3288930103;F;SQL para Negocios;beginner;3
+13;13/07/2023;2/12/2023;Analista de datos;16/10/1998;sebastián.díaz@email.com;Sebastián;Díaz;+57 3178935169;M;Cloud Computing;intermediate;3
+14;31/03/2022;15/06/2022;Consultor TI;10/01/1975;natalia.morales@email.com;Natalia;Morales;+57 3234194548;F;Power BI;advanced;4
+15;28/08/2023;5/02/2024;Docente universitario;13/11/2001;felipe.jiménez@email.com;Felipe;Jiménez;+57 3132626229;M;Análisis de Datos;intermediate;5
+16;9/03/2023;15/08/2023;Consultor TI;16/07/1989;daniela.ruiz@email.com;Daniela;Ruiz;+57 3236944126;F;JavaScript Avanzado;advanced;5
+17;2/02/2022;6/05/2022;Desarrollador web;1/12/1996;alejandro.herrera@email.com;Alejandro;Herrera;+57 3237897151;M;Power BI;beginner;3
+18;31/01/2022;28/06/2022;Diseñador UX;16/11/1975;gabriela.medina@email.com;Gabriela;Medina;+57 3241908841;F;Excel Profesional;advanced;5
+19;6/04/2022;26/05/2022;Desarrollador web;7/01/1980;ricardo.castro@email.com;Ricardo;Castro;+57 3132016911;M;React desde Cero;advanced;3
+20;12/08/2022;30/08/2022;Analista de datos;14/04/1991;paula.vargas@email.com;Paula;Vargas;+57 3226692553;F;Diseño Web;advanced;4
+21;27/08/2022;8/09/2022;Diseñador UX;17/10/1988;miguel.ramos@email.com;Miguel;Ramos;+57 3135171761;M;Marketing Digital;intermediate;4
+22;2/06/2023;19/11/2023;Docente universitario;28/09/1985;sara.ortiz@email.com;Sara;Ortiz;+57 3164191175;F;Diseño Web;advanced;3
+23;9/09/2023;7/11/2023;Docente universitario;7/08/1977;esteban.delgado@email.com;Esteban;Delgado;+57 3278526486;M;SQL para Negocios;intermediate;4
+24;28/01/2022;13/04/2022;Emprendedor digital;21/10/1985;mariana.guerrero@email.com;Mariana;Guerrero;+57 3148077999;F;Deep Learning;beginner;5
+25;29/07/2023;19/08/2023;Analista de datos;13/06/2000;david.mendoza@email.com;David;Mendoza;+57 3155673212;M;Ciberseguridad;beginner;4
+26;23/07/2022;21/09/2022;Desarrollador web;14/07/1978;ana.alvarez@email.com;Ana;Alvarez;+57 3245191056;F;Ciberseguridad;beginner;4
+27;4/01/2024;30/01/2024;Consultor TI;4/11/1978;javier.reyes@email.com;Javier;Reyes;+57 3128434500;M;Análisis de Datos;intermediate;5
+28;28/10/2023;3/02/2024;Estudiante de ingeniería;19/10/1996;lucía.guzmán@email.com;Lucía;Guzmán;+57 3272642635;F;Deep Learning;advanced;5
+29;20/12/2023;1/03/2024;Apasionado por la tecnología;7/02/1978;mateo.muñoz@email.com;Mateo;Muñoz;+57 3111247595;M;Ciberseguridad;advanced;3
+30;13/07/2023;7/11/2023;Estudiante de ingeniería;23/11/1998;catalina.romero@email.com;Catalina;Romero;+57 3124965789;F;Deep Learning;beginner;4
+31;6/03/2023;16/08/2023;Desarrollador web;22/08/1980;tomás.aguilar@email.com;Tomás;Aguilar;+57 3157818496;M;Cloud Computing;advanced;3
+32;14/08/2022;16/11/2022;Desarrollador web;4/10/1980;verónica.vega@email.com;Verónica;Vega;+57 3259075854;F;Python Básico;beginner;3
+33;5/04/2023;17/05/2023;Docente universitario;27/04/1996;nicolás.silva@email.com;Nicolás;Silva;+57 3167728339;M;Análisis de Datos;beginner;5
+34;27/08/2023;30/11/2023;Estudiante de ingeniería;30/08/1999;juliana.ríos@email.com;Juliana;Ríos;+57 3113762152;F;Power BI;advanced;3
+35;12/10/2022;11/01/2023;Docente universitario;29/05/1982;rodrigo.suárez@email.com;Rodrigo;Suárez;+57 3221036161;M;Power BI;intermediate;3
+36;8/04/2024;1/06/2024;Docente universitario;21/11/1986;diana.molina@email.com;Diana;Molina;+57 3225449368;F;Power BI;advanced;4
+37;7/01/2022;28/06/2022;Consultor TI;2/09/1998;mauricio.núñez@email.com;Mauricio;Núñez;+57 3245785687;M;Estadística Aplicada;beginner;3
+38;17/02/2024;26/04/2024;Diseñador UX;18/03/2002;paola.cabrera@email.com;Paola;Cabrera;+57 3239164991;F;Excel Profesional;advanced;3
+39;5/04/2024;2/10/2024;Apasionado por la tecnología;24/12/1993;sergio.soto@email.com;Sergio;Soto;+57 3144185957;M;Python Básico;advanced;3
+40;13/06/2022;5/12/2022;Estudiante de ingeniería;2/07/1984;adriana.fuentes@email.com;Adriana;Fuentes;+57 3194652414;F;Deep Learning;intermediate;4
+41;16/12/2023;30/05/2024;Diseñador UX;11/03/1999;gustavo.ponce@email.com;Gustavo;Ponce;+57 3112022698;M;Python Básico;intermediate;5
+42;9/03/2023;28/03/2023;Emprendedor digital;9/01/1984;monica.carrillo@email.com;Monica;Carrillo;+57 3201959074;F;Marketing Digital;advanced;4
+43;15/12/2022;20/05/2023;Estudiante de ingeniería;25/12/1988;hernán.cruz@email.com;Hernán;Cruz;+57 3118999183;M;Machine Learning;beginner;5
+44;12/10/2022;24/03/2023;Diseñador UX;24/11/1992;claudia.rojas@email.com;Claudia;Rojas;+57 3269910817;F;Análisis de Datos;advanced;5
+45;9/06/2022;23/07/2022;Docente universitario;2/10/1991;oscar.acosta@email.com;Oscar;Acosta;+57 3151954280;M;Excel Profesional;beginner;5
+46;9/08/2022;24/12/2022;Desarrollador web;26/08/1994;viviana.lara@email.com;Viviana;Lara;+57 3262344047;F;Ciberseguridad;advanced;4
+47;21/02/2024;24/04/2024;Consultor TI;20/03/1998;raúl.miranda@email.com;Raúl;Miranda;+57 3152149597;M;Power BI;advanced;4
+48;11/12/2022;22/01/2023;Apasionado por la tecnología;3/04/1995;patricia.espinoza@email.com;Patricia;Espinoza;+57 3292140194;F;Deep Learning;beginner;5
+49;15/04/2022;12/08/2022;Diseñador UX;5/06/1980;ivan.navarro@email.com;Ivan;Navarro;+57 3177774229;M;Cloud Computing;advanced;4
+50;5/04/2022;12/07/2022;Desarrollador web;13/02/1986;sandra.ibáñez@email.com;Sandra;Ibáñez;+57 3135130808;F;JavaScript Avanzado;intermediate;3
+51;31/08/2024;25/01/2025;Consultor TI;17/05/1980;lucas.mejia@email.com;Lucas;Mejía;+57 3262831314;M;Machine Learning;advanced;5
+52;1/10/2023;18/01/2024;Analista de datos;17/08/1993;leonardo.londoño@email.com;Leonardo;Londoño;+57 3221194888;M;Machine Learning;beginner;3
+53;13/02/2022;20/07/2022;Analista de datos;8/10/1984;elizabeth.andrade@email.com;Elizabeth;Andrade;+57 3101930277;F;Deep Learning;advanced;3
+54;19/05/2022;3/06/2022;Desarrollador web;17/02/1991;fermin.davila@email.com;Fermín;Dávila;+57 3163888882;M;Power BI;intermediate;3
+55;26/08/2024;3/11/2024;Analista de datos;7/07/2000;cesar.barrera@email.com;César;Barrera;+57 3125320389;M;Power BI;intermediate;4
+56;21/04/2024;25/08/2024;Analista de datos;21/11/1973;marta.beltran@email.com;Marta;Beltrán;+57 3273457556;F;UX/UI Design;intermediate;5
+57;12/08/2022;21/10/2022;Emprendedor digital;18/04/1982;alicia.trujillo@email.com;Alicia;Trujillo;+57 3220423783;F;SQL para Negocios;beginner;4
+58;27/05/2023;22/06/2023;Diseñador UX;4/09/1998;alejandra.bermudez@email.com;Alejandra;Bermúdez;+57 3113579701;F;Análisis de Datos;beginner;3
+59;21/09/2024;29/01/2025;Consultor TI;2/07/1983;florencia.zuleta@email.com;Florencia;Zuleta;+57 3144194440;F;UX/UI Design;intermediate;4
+60;8/08/2023;1/12/2023;Apasionado por la tecnología;7/03/2001;amparo.salazar@email.com;Amparo;Salazar;+57 3179646901;F;UX/UI Design;advanced;5
+61;5/10/2023;26/10/2023;Emprendedor digital;16/10/1973;oscar.arango@email.com;Óscar;Arango;+57 3234982870;M;UX/UI Design;advanced;3
+62;21/05/2022;27/10/2022;Consultor TI;28/11/1974;jonathan.cuesta@email.com;Jonathan;Cuesta;+57 3163137065;M;Análisis de Datos;advanced;3
+63;17/06/2022;9/10/2022;Docente universitario;9/06/2003;francisco.galindo@email.com;Francisco;Galindo;+57 3154830411;M;Machine Learning;intermediate;4
+64;7/09/2023;9/01/2024;Analista de datos;1/02/1990;camilo.alvarado@email.com;Camilo;Alvarado;+57 3223020082;M;Análisis de Datos;advanced;3
+65;29/09/2022;3/01/2023;Emprendedor digital;12/04/1974;francisca.ospina@email.com;Francisca;Ospina;+57 3176500721;F;Ciberseguridad;advanced;5
+66;19/12/2024;28/12/2024;Desarrollador web;4/11/1989;ximena.camacho@email.com;Ximena;Camacho;+57 3136048496;F;Análisis de Datos;beginner;5
+67;12/07/2023;29/09/2023;Desarrollador web;11/12/1983;fabio.ochoa@email.com;Fabio;Ochoa;+57 3154652736;M;JavaScript Avanzado;intermediate;4
+68;9/07/2022;25/12/2022;Docente universitario;2/05/1997;lorenzo.heredia@email.com;Lorenzo;Heredia;+57 3100951788;M;Python Básico;beginner;5
+69;27/11/2022;27/03/2023;Analista de datos;1/09/1997;luisa.duran@email.com;Luisa;Durán;+57 3130030916;F;Excel Profesional;advanced;3
+70;27/01/2024;1/07/2024;Desarrollador web;5/07/1979;alvaro.lozano@email.com;Álvaro;Lozano;+57 3111228349;M;React desde Cero;beginner;4
+71;27/05/2023;20/11/2023;Consultor TI;25/06/1976;wilmar.arias@email.com;Wilmar;Arias;+57 3250292587;M;Cloud Computing;advanced;3
+72;29/11/2022;20/01/2023;Docente universitario;6/01/1996;jairo.murillo@email.com;Jairo;Murillo;+57 3297720018;M;Python Básico;intermediate;5
+73;1/07/2023;17/08/2023;Estudiante de ingeniería;28/07/1976;pablo.vergara@email.com;Pablo;Vergara;+57 3110395056;M;Machine Learning;beginner;4
+74;18/09/2023;22/11/2023;Consultor TI;22/01/1984;milena.uribe@email.com;Milena;Uribe;+57 3151842883;F;React desde Cero;intermediate;3
+75;21/12/2023;9/06/2024;Docente universitario;22/07/2002;manuela.quiroga@email.com;Manuela;Quiroga;+57 3243939314;F;UX/UI Design;beginner;4
+76;28/06/2023;14/07/2023;Docente universitario;14/10/1976;nelson.serna@email.com;Nelson;Serna;+57 3192794676;M;SQL para Negocios;advanced;5
+77;28/02/2024;31/07/2024;Consultor TI;2/05/1982;martin.hoyos@email.com;Martín;Hoyos;+57 3290263101;M;UX/UI Design;advanced;5
+78;16/01/2024;12/05/2024;Docente universitario;11/11/1974;joaquin.escobar@email.com;Joaquín;Escobar;+57 3267277006;M;Power BI;beginner;5
+79;4/11/2024;29/01/2025;Desarrollador web;13/06/1996;jimena.barrios@email.com;Jimena;Barrios;+57 3287155458;F;JavaScript Avanzado;beginner;3
+80;16/02/2024;14/08/2024;Consultor TI;19/10/1981;norma.tobon@email.com;Norma;Tobón;+57 3180785617;F;JavaScript Avanzado;beginner;4
+81;7/03/2023;2/07/2023;Apasionado por la tecnología;15/08/1990;carolina.lagos@email.com;Carolina;Lagos;+57 3218691366;F;JavaScript Avanzado;intermediate;5
+82;23/06/2022;10/09/2022;Docente universitario;21/11/2002;ramon.robles@email.com;Ramón;Robles;+57 3266231556;M;Análisis de Datos;beginner;5
+83;6/04/2023;2/06/2023;Estudiante de ingeniería;2/01/1979;beatriz.macias@email.com;Beatriz;Macías;+57 3165724419;F;Cloud Computing;beginner;4
+84;3/02/2023;19/05/2023;Diseñador UX;8/07/2001;valeria.robayo@email.com;Valeria;Robayo;+57 3139613380;F;Excel Profesional;beginner;4
+85;27/12/2022;15/05/2023;Analista de datos;18/01/1999;santiago.gaviria@email.com;Santiago;Gaviria;+57 3166893652;M;Ciberseguridad;beginner;4
+86;25/06/2024;5/12/2024;Estudiante de ingeniería;27/07/2002;vanessa.mosquera@email.com;Vanessa;Mosquera;+57 3247068257;F;Excel Profesional;beginner;5
+87;10/07/2024;21/09/2024;Estudiante de ingeniería;9/11/1985;esperanza.posada@email.com;Esperanza;Posada;+57 3239935353;F;Power BI;beginner;4
+88;8/06/2022;27/08/2022;Analista de datos;11/05/1985;amanda.solano@email.com;Amanda;Solano;+57 3185821382;F;Estadística Aplicada;beginner;3
+89;9/11/2022;9/01/2023;Estudiante de ingeniería;14/07/1974;andrea.bautista@email.com;Andrea;Bautista;+57 3188820296;F;SQL para Negocios;beginner;3
+90;8/03/2024;11/08/2024;Diseñador UX;13/10/1971;eliana.pineda@email.com;Eliana;Pineda;+57 3228038272;F;React desde Cero;intermediate;4
+91;28/03/2023;6/08/2023;Diseñador UX;14/05/1984;pilar.zamora@email.com;Pilar;Zamora;+57 3230363531;F;SQL para Negocios;intermediate;5
+92;5/12/2022;10/04/2023;Consultor TI;18/10/1978;karina.medrano@email.com;Karina;Medrano;+57 3107238751;F;Cloud Computing;advanced;5
+93;21/06/2022;9/12/2022;Emprendedor digital;28/03/1997;emilio.cortes@email.com;Emilio;Cortés;+57 3223936233;M;UX/UI Design;intermediate;4
+94;10/03/2023;11/07/2023;Desarrollador web;25/06/1990;susana.leon@email.com;Susana;León;+57 3201770918;F;Python Básico;intermediate;4
+95;21/08/2024;1/09/2024;Analista de datos;12/01/2004;horacio.salcedo@email.com;Horacio;Salcedo;+57 3160189178;M;Python Básico;advanced;3
+96;22/05/2023;19/07/2023;Emprendedor digital;5/10/1971;ignacio.giraldo@email.com;Ignacio;Giraldo;+57 3164033920;M;Ciberseguridad;advanced;3
+97;10/08/2024;21/10/2024;Analista de datos;20/03/1993;armando.mena@email.com;Armando;Mena;+57 3263006756;M;Python Básico;beginner;4
+98;22/02/2022;19/05/2022;Analista de datos;23/07/1994;eduardo.ayala@email.com;Eduardo;Ayala;+57 3153238744;M;Cloud Computing;advanced;5
+99;28/07/2022;20/10/2022;Docente universitario;26/10/1977;simon.caballero@email.com;Simón;Caballero;+57 3111024411;M;JavaScript Avanzado;intermediate;5
+100;22/05/2022;5/10/2022;Estudiante de ingeniería;28/01/1991;olga.pizarro@email.com;Olga;Pizarro;+57 3212758659;F;Análisis de Datos;intermediate;4
+101;10/11/2022;8/03/2023;Desarrollador web;17/12/1981;teresa.acevedo@email.com;Teresa;Acevedo;+57 3274605833;F;Cloud Computing;advanced;4
+102;11/06/2024;16/11/2024;Analista de datos;28/06/1987;tatiana.gutierrez@email.com;Tatiana;Gutiérrez;+57 3165899606;F;Diseño Web;intermediate;3
+103;16/02/2024;19/05/2024;Emprendedor digital;28/08/1971;elizabeth.cardenas@email.com;Elizabeth;Cárdenas;+57 3187245326;F;Ciberseguridad;beginner;4
+104;29/11/2023;15/02/2024;Apasionado por la tecnología;1/09/1987;cecilia.tapias@email.com;Cecilia;Tapias;+57 3238681071;F;Análisis de Datos;beginner;5
+105;27/09/2024;23/02/2025;Estudiante de ingeniería;16/12/1985;isabel.gaitan@email.com;Isabel;Gaitán;+57 3273383238;F;Ciberseguridad;beginner;3
+106;30/03/2023;18/07/2023;Docente universitario;22/05/1985;marta.pelaez@email.com;Marta;Peláez;+57 3256110139;F;Ciberseguridad;advanced;5
+107;21/05/2024;15/10/2024;Desarrollador web;23/06/1991;alicia.patiño@email.com;Alicia;Patiño;+57 3221801317;F;Diseño Web;intermediate;3
+108;30/01/2023;27/04/2023;Emprendedor digital;18/12/1977;milton.duarte@email.com;Milton;Duarte;+57 3285264368;M;Machine Learning;beginner;5
+109;21/07/2023;25/12/2023;Apasionado por la tecnología;10/10/2003;florencia.arevalo@email.com;Florencia;Arévalo;+57 3126984771;F;Diseño Web;beginner;4
+110;12/09/2023;22/09/2023;Diseñador UX;9/03/2004;oscar.hurtado@email.com;Óscar;Hurtado;+57 3112218027;M;JavaScript Avanzado;intermediate;5
+111;2/10/2024;4/11/2024;Estudiante de ingeniería;10/10/1970;jonathan.zapata@email.com;Jonathan;Zapata;+57 3226002782;M;Ciberseguridad;intermediate;3
+112;2/06/2023;9/10/2023;Analista de datos;13/02/1977;francisco.luna@email.com;Francisco;Luna;+57 3232002213;M;Cloud Computing;advanced;5
+113;7/11/2022;22/12/2022;Consultor TI;8/02/1989;camilo.villanueva@email.com;Camilo;Villanueva;+57 3131796599;M;Cloud Computing;advanced;5
+114;6/12/2024;20/03/2025;Consultor TI;10/08/1998;renato.cordoba@email.com;Renato;Córdoba;+57 3257981012;M;Diseño Web;advanced;5
+115;23/07/2022;21/09/2022;Emprendedor digital;22/05/1983;samuel.cifuentes@email.com;Samuel;Cifuentes;+57 3121793595;M;Machine Learning;beginner;5
+116;17/11/2022;24/11/2022;Estudiante de ingeniería;23/08/1996;fabio.blanco@email.com;Fabio;Blanco;+57 3259399978;M;Diseño Web;beginner;3
+117;3/08/2023;4/12/2023;Apasionado por la tecnología;8/11/1974;leidy.arrieta@email.com;Leidy;Arrieta;+57 3171015841;F;SQL para Negocios;beginner;5
+118;2/11/2022;16/01/2023;Desarrollador web;2/02/1979;braulio.bedoya@email.com;Braulio;Bedoya;+57 3144539558;M;Cloud Computing;advanced;5
+119;18/06/2024;26/07/2024;Consultor TI;10/12/1999;luisa.yepes@email.com;Luisa;Yepes;+57 3287833330;F;Diseño Web;advanced;5
+120;15/06/2024;12/07/2024;Desarrollador web;24/07/1972;rosa.rincon@email.com;Rosa;Rincón;+57 3186522540;F;UX/UI Design;beginner;3
+121;6/07/2023;7/12/2023;Estudiante de ingeniería;16/03/1972;jairo.urrego@email.com;Jairo;Urrego;+57 3239308294;M;Excel Profesional;intermediate;3
+122;4/10/2024;3/11/2024;Docente universitario;14/06/2000;julia.estrada@email.com;Julia;Estrada;+57 3189471791;F;Power BI;beginner;3
+123;23/04/2024;3/09/2024;Diseñador UX;13/11/1988;miriam.mancilla@email.com;Miriam;Mancilla;+57 3247665435;F;Ciberseguridad;beginner;4
+124;25/10/2023;30/11/2023;Estudiante de ingeniería;27/09/1995;milena.mora@email.com;Milena;Mora;+57 3100308986;F;SQL para Negocios;beginner;3
+125;17/10/2024;2/04/2025;Emprendedor digital;7/01/1998;manuela.solarte@email.com;Manuela;Solarte;+57 3171687363;F;Excel Profesional;intermediate;4
+126;6/09/2022;20/09/2022;Diseñador UX;6/12/1985;nathalia.naranjo@email.com;Nathalia;Naranjo;+57 3183416355;F;JavaScript Avanzado;intermediate;3
+127;21/08/2022;24/12/2022;Estudiante de ingeniería;27/11/1977;joaquin.sierra@email.com;Joaquín;Sierra;+57 3141331308;M;Excel Profesional;advanced;4
+128;30/04/2024;7/09/2024;Emprendedor digital;15/04/2000;luz.villamizar@email.com;Luz;Villamizar;+57 3247979092;F;SQL para Negocios;beginner;5
+129;23/05/2022;8/08/2022;Desarrollador web;26/06/1996;victor.rosero@email.com;Víctor;Rosero;+57 3236294795;M;Marketing Digital;beginner;4
+130;29/09/2024;13/11/2024;Docente universitario;16/09/1998;norma.samper@email.com;Norma;Samper;+57 3192643503;F;JavaScript Avanzado;advanced;4
+131;22/10/2023;16/12/2023;Consultor TI;13/10/1985;carolina.gallego@email.com;Carolina;Gallego;+57 3162696440;F;UX/UI Design;intermediate;5
+132;20/02/2024;4/06/2024;Docente universitario;2/08/1979;zara.castillo@email.com;Zara;Castillo;+57 3133888974;F;Marketing Digital;beginner;4
+133;13/12/2024;15/04/2025;Emprendedor digital;5/12/1970;guillermo.gil@email.com;Guillermo;Gil;+57 3210052796;M;Análisis de Datos;intermediate;4
+134;25/03/2024;14/09/2024;Consultor TI;28/06/1975;valeria.castrillon@email.com;Valeria;Castrillón;+57 3281021460;F;React desde Cero;advanced;5
+135;15/03/2022;27/08/2022;Desarrollador web;21/04/1974;yolanda.pedraza@email.com;Yolanda;Pedraza;+57 3283717110;F;Machine Learning;advanced;3
+136;21/07/2022;6/01/2023;Desarrollador web;6/08/1976;vanessa.valencia@email.com;Vanessa;Valencia;+57 3286294518;F;Excel Profesional;beginner;3
+137;25/04/2022;16/07/2022;Apasionado por la tecnología;14/06/1992;esperanza.montoya@email.com;Esperanza;Montoya;+57 3139076094;F;JavaScript Avanzado;intermediate;5
+138;15/12/2022;4/02/2023;Apasionado por la tecnología;28/10/1975;roberto.quintero@email.com;Roberto;Quintero;+57 3202688453;M;Ciberseguridad;advanced;3
+139;2/08/2024;19/01/2025;Diseñador UX;9/08/1986;cristian.vallejo@email.com;Cristian;Vallejo;+57 3279003692;M;Excel Profesional;intermediate;4
+140;1/06/2022;29/09/2022;Consultor TI;10/10/1992;ramiro.cano@email.com;Ramiro;Cano;+57 3271513801;M;Deep Learning;intermediate;4
+141;12/02/2023;28/05/2023;Docente universitario;8/02/2000;pilar.landinez@email.com;Pilar;Landínez;+57 3202371698;F;Cloud Computing;intermediate;5
+142;14/02/2022;8/08/2022;Diseñador UX;1/05/1995;karina.buenaventura@email.com;Karina;Buenaventura;+57 3251915413;F;Excel Profesional;advanced;5
+143;10/08/2023;14/10/2023;Desarrollador web;21/04/1992;sonia.sandoval@email.com;Sonia;Sandoval;+57 3151038167;F;Power BI;advanced;5
+144;18/07/2022;1/01/2023;Diseñador UX;26/05/1972;horacio.espinosa@email.com;Horacio;Espinosa;+57 3218332575;M;Cloud Computing;intermediate;5
+145;4/07/2022;24/09/2022;Apasionado por la tecnología;14/12/1990;ignacio.mejia@email.com;Ignacio;Mejía;+57 3147148023;M;Estadística Aplicada;advanced;4
+146;3/12/2022;13/02/2023;Analista de datos;24/05/2000;pamela.londoño@email.com;Pamela;Londoño;+57 3190923183;F;Ciberseguridad;beginner;3
+147;24/03/2024;20/08/2024;Diseñador UX;26/02/1993;eduardo.andrade@email.com;Eduardo;Andrade;+57 3205917802;M;Diseño Web;advanced;3
+148;25/01/2024;22/07/2024;Docente universitario;13/10/1986;lina.davila@email.com;Lina;Dávila;+57 3271409263;F;Análisis de Datos;advanced;3
+149;21/02/2022;5/08/2022;Analista de datos;8/10/1990;blanca.barrera@email.com;Blanca;Barrera;+57 3273852863;F;Power BI;intermediate;5
+150;16/04/2024;22/05/2024;Estudiante de ingeniería;2/01/1978;olga.beltran@email.com;Olga;Beltrán;+57 3181702244;F;Análisis de Datos;beginner;3

@@ -13,7 +13,7 @@ def exportar_csv(df, ruta_salida):
     print(f"[Exportar] Archivo CSV guardado en: {ruta_salida}")
     
     # 2. NUEVO: Guardar el JSON directamente dentro de la carpeta Frontend
-    ruta_json_frontend = os.path.join('Frontend', 'pasajeros_limpio.json')
+    ruta_json_frontend = os.path.join('Frontend', 'proyecto_integrador_data_limpio.json')
     datos_dict = df.to_dict(orient='records')
     
     with open(ruta_json_frontend, 'w', encoding='utf-8') as f:
